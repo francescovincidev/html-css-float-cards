@@ -17,6 +17,7 @@ h1{
     
 }
 
+/* CLEARFIX */
 .clearfix::after{
     content: "";
     display: table;
